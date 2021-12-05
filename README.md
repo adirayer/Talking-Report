@@ -17,3 +17,5 @@ The part 3 also contains Google Text To Speech for conversion of the translated 
 Result:
 The audio file generated as output can be any of the following languages as preferred by the 
 user English, French, German, Chinese, Arabic, Spanish, Russian, Hindi, Japanese, Korean.
+
+Group Project Made By: Aditya Rayer & Shivangi Aggarwal
